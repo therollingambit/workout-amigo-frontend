@@ -1,5 +1,5 @@
 # resolve the "new" URL to a function
 [[redirects]]
-  from = "/*"
-  to = "https://workout-amigo.up.railway.app/:splat"
+  from = "/api/*"
+  to = "https://workout-amigo.up.railway.app/api/:splat"
   status = 200
