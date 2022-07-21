@@ -1,4 +1,4 @@
-# Workout-buddy MERN frontend
+# Workout Amigo MERN frontend
 
 ### packages
 - react router: `npm i react-router-dom`
